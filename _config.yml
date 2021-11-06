@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+description: My blog about most tech and some other things.
 github_username: ebsaibes
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "my-blog"
